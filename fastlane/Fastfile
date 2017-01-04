@@ -1,0 +1,10 @@
+lane :bonjour do
+
+  UI.success "Bravo !"
+  scan(
+    project: "FastlaneDemo.xcodeproj",
+    scheme: "FastlaneDemo"
+  )
+
+
+end
