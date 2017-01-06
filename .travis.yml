@@ -3,7 +3,7 @@ language : objective-c
 cache:
   - bundler
   - cocoapods
-branche:
+branches:
   only:
     - develop
     - master
