@@ -490,6 +490,7 @@
 				DC202D1D1E1CFB6F00719DDC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DC202D1E1E1CFB6F00719DDC /* Build configuration list for PBXNativeTarget "FastlaneDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +499,7 @@
 				DC202D201E1CFB6F00719DDC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DC202D2F1E1CFF3700719DDC /* Build configuration list for PBXNativeTarget "UserTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +508,7 @@
 				DC202D311E1CFF3700719DDC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
